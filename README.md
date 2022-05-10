@@ -4,4 +4,4 @@ Hello, I'm LOKESH N S  👋
 - 👀 I’m interested in Web Development, Automation and AI
 - 🌱 I’m currently learning Django REST API 
 - 🚀 I like Swimming and playing Cricket
-- 📫 How to reach me ...
+- 📫 How to reach me: linkedin - www.linkedin.com/in/lokesh-ns
