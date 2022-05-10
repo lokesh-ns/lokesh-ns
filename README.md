@@ -8,9 +8,9 @@
 
 **🛠  Languages and Tools**
 
-- Python JavaScript PHP
-HTML5 CSS Bootstrap WordPress
-Django Django REST Framework Flask Laravel
-MySQL PostgreSQL
-Heroku Digital Ocean
-Git GitHub Linux Visual Studio Code Postman Photoshop
+- Python JavaScript
+- HTML5 CSS Bootstrap WordPress
+- Django Django REST Framework Flask Laravel
+- MySQL PostgreSQL
+- Heroku Digital Ocean
+- Git GitHub Linux Visual Studio Code Postman Photoshop
