@@ -1,4 +1,4 @@
-Hello, I'm LOKESH N S  👋
+**Hello, I'm LOKESH N S  👋**
 
 - 💼 I’m currently working in KPIT Technologies
 - 👀 I’m interested in Web Development, Automation and AI
