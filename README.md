@@ -1,4 +1,4 @@
-- Hello, I'm LOKESH N S  👋
+Hello, I'm LOKESH N S  👋
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Django REST Framework API .
