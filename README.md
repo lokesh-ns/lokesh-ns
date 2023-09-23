@@ -1,18 +1,16 @@
 **Hello, I'm LOKESH N S  👋**
 
-- 💼 I’m currently working as DevOps Engineer in Tata Consultancy Services
-- 👀 I’m interested in Cloud Technology
-- 🌱 I’m currently learning AWS cloud
-- 🚀 I like Swimming and playing Cricket
-- 📫 How to reach me: linkedin - www.linkedin.com/in/lokesh-ns
+DevOps professional with over 4 years of experience in designing, implementing, and managing end-to-end CI/CD pipelines and cloud infrastructure. Proficient in AWS cloud services, Linux administration, scripting, automation, and containerization technologies.
+Worked with AWS services as EC2, S3, Cloud Trail, Cloud Watch. Hands on experience with automation servers, container configuration and management tools such as Jenkins, Docker and Kubernetes. Also skilled with shell and python automation scripting. Managed tagging, branching and maintenance versions of production using SCM tools like GIT and Gerrit . Understand the Agile Methodologies and process, and well versed with AWS cloud services.
 
-**🛠  Skills and Tools**
+Technical Tools and Software used in continuous Integration and Deployments of applications:
 
-- Python, JavaScript, groovy
-- HTML, CSS, Bootstrap
-- Django, Django REST Framework
-- MySQL, PostgreSQL
-- Git & GitHub, Visual Studio Code
-- linux, shell scripting, pytest framework
-- Jenkins, Docker, K8s
-- Helm, Helmfile
+* Cloud Computing Technology : Amazon Web Services (AWS)
+* Operating System : Linux (AWS, RHEL, Ubuntu)
+* Scripting language : Shell/Bash scripting
+* Automation Server : Jenkins, Spinnaker
+* Container Technology and Management : Docker, Kubernetes, Helm
+* Infrastructure as code (Iac) : Ansible, Terraform
+* Version Control : Git, Gerrit
+
+Please feel free to reach me on linkedin - www.linkedin.com/in/lokesh-ns
