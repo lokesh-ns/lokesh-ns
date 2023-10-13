@@ -7,7 +7,7 @@ Technical Tools and Software used in continuous Integration and Deployments of a
 
 * Cloud Computing Technology: Amazon Web Services (AWS)
 * Operating System: Linux (AWS, RHEL, Ubuntu)
-* Scripting language: Shell/Bash scripting
+* Scripting language: Shell/Bash scripting, Python
 * Automation Server: Jenkins, Spinnaker
 * Container Technology and Management: Docker, Kubernetes, Helm
 * Infrastructure as code (Iac): Ansible, Terraform
