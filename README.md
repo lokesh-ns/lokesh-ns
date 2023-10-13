@@ -15,5 +15,5 @@ Technical Tools and Software used in continuous Integration and Deployments of a
 
 Please feel free to reach me on any of the below platforms:
 
-Mail - lokeshns7476@gmail.com
-LinkedIn - www.linkedin.com/in/lokesh-ns
+* Mail - lokeshns7476@gmail.com
+* LinkedIn - www.linkedin.com/in/lokesh-ns
