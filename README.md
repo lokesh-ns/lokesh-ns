@@ -81,7 +81,7 @@
 ###
 
 <div align="left">
-  <a href="lokeshns7476@gmail.com" target="_blank">
+  <a href="mailto:lokeshns7476@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/lokesh-ns/" target="_blank">
