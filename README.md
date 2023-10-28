@@ -8,15 +8,15 @@
 
 ###
 
-<h4 align="left">DevOps professional with over 4+ years of experience in designing, implementing, and managing end-to-end CI/CD pipelines and cloud infrastructure. Proficient in AWS cloud services, Linux administration, scripting, automation, and containerization technologies.</h4>
+<h3 align="left">DevOps professional with over 4+ years of experience in designing, implementing, and managing end-to-end CI/CD pipelines and cloud infrastructure. Proficient in AWS cloud services, Linux administration, scripting, automation, and containerization technologies.</h3>
 
 ###
 
-<h3 align="left">Tools and Technologies:</h3>
+<h2 align="left">Tools and Technologies:</h2>
 
 ###
 
-<h4 align="left">DevOps Tools:</h4>
+<h3 align="left">DevOps Tools:</h3>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h4 align="left">Web Development Tools:</h4>
+<h3 align="left">Web Development Tools:</h3>
 
 ###
 
@@ -76,12 +76,12 @@
 
 ###
 
-<h3 align="left">Feel free to reach me on:</h3>
+<h2 align="left">Feel free to reach me on:</h2>
 
 ###
 
 <div align="left">
-  <a href="mailto:lokeshns7476@gmail.com" target="_blank">
+  <a href="lokeshns7476@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/lokesh-ns/" target="_blank">
