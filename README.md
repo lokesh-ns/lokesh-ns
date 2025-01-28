@@ -8,11 +8,11 @@
 
 ###
 
-<h4 align="left">DevOps professional with over 4+ years of experience in designing, implementing, and managing end-to-end CI/CD pipelines and cloud infrastructure. Proficient in AWS cloud services, Linux administration, scripting, automation, and containerization technologies.</h4>
+<h4 align="left">DevOps professional with over 5+ years of experience in designing, implementing, and managing end-to-end CI/CD pipelines and cloud infrastructure. Leveraging my expertise in AWS cloud services, Linux administration, scripting, automation, and containerization technologies.</h4>
 
 ###
 
-<h3 align="left">Tools and Technologies:</h3>
+<h3 align="left">Tools and Technologies:-</h3>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h4 align="left">Web Development Tools:</h4>
+<h4 align="left">Web Development Tools:-</h4>
 
 ###
 
