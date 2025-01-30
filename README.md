@@ -1,4 +1,4 @@
-<h2 align="left">Hey there 👋! My name is LOKESH N S and I'm a Cloud DevOps engineer, from India.</h2>
+<h2 align="left">Hey there! 👋 I’m Lokesh N S, a Cloud DevOps Engineer from India.</h2>
 
 ###
 
