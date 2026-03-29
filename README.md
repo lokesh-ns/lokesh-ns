@@ -1,91 +1,89 @@
-<h2 align="left">Hey there! 👋 I’m Lokesh N S, a Cloud DevOps Engineer from India.</h2>
+<div align="center">
+  <h1>👋 Hi, I'm Lokesh N S</h1>
+  <h3>Senior Cloud DevOps Engineer · India</h3>
 
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lokesh-ns.lokesh-ns&right_color=darkgreen&left_text=Profile%20Views"  />
-</div>
-
-###
-
-<h4 align="left">DevOps professional with over 5+ years of experience in designing, implementing, and managing end-to-end CI/CD pipelines and cloud infrastructure. Leveraging my expertise in AWS cloud services, Linux administration, scripting, automation, and containerization technologies.</h4>
-
-###
-
-<h3 align="left">Tools and Technologies:-</h3>
-
-###
-
-<h4 align="left">DevOps Tools:</h4>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h4 align="left">Web Development Tools:-</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokesh-ns&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lokesh-ns&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h3 align="left">Feel free to reach me on:</h3>
-
-###
-
-<div align="left">
-  <a href="mailto:lokeshns7476@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  <a href="mailto:lokeshns7476@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/lokesh-ns/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lokesh-ns.lokesh-ns&right_color=darkgreen&left_text=Profile%20Views&style=for-the-badge" />
 </div>
 
-###
+---
+
+## 🧑‍💻 About Me
+
+> **Senior DevOps Engineer** with **7+ years of experience** in CI/CD, Kubernetes, and cloud infrastructure on AWS. Adept at leading DevOps transformations, driving **GitOps** and **DevSecOps** adoption, and building reliable platform engineering foundations. Experienced across regulated **banking and enterprise environments** with a strong focus on automation, cost efficiency, and developer enablement.
+
+---
+
+## 🛠️ Technical Skills
+
+### ☁️ Cloud & Infrastructure as Code
+<div>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+</div>
+
+> EC2 · S3 · IAM · VPC · Lambda · RDS · EKS · CloudWatch · GCP Artifact Registry
+
+---
+
+### 🔄 CI/CD & GitOps
+<div>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codefresh-00C2FF?style=for-the-badge&logo=codefresh&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flux-5468FF?style=for-the-badge&logo=flux&logoColor=white" />
+</div>
+
+---
+
+### 🐳 Containers & Kubernetes
+<div>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+</div>
+
+---
+
+### 📊 Observability
+<div>
+  <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+</div>
+
+---
+
+### 🔐 Security & Secrets Management
+<div>
+  <img src="https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black" />
+  <img src="https://img.shields.io/badge/Twistlock-003366?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Black_Duck-BD1C2B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Checkmarx-54B848?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</div>
+
+---
+
+### 💻 Scripting & OS
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+<div align="center">
+  <i>💬 Open to collaborating on DevOps, Cloud, and Platform Engineering projects.</i><br/>
+  <i>📬 Reach me at <a href="mailto:lokeshns7476@gmail.com">lokeshns7476@gmail.com</a> or connect on <a href="https://www.linkedin.com/in/lokesh-ns/">LinkedIn</a>.</i>
+</div>
