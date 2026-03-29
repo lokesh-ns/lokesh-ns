@@ -106,38 +106,6 @@
 
 ---
 
-## 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lokesh-ns/lokesh-ns/output/snake.svg" alt="Snake animation" />
-</div>
-
-> ⚙️ **Setup note:** To enable the snake animation, add this GitHub Actions workflow to your profile repo at `.github/workflows/snake.yml`:
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: lokesh-ns
->           outputs: dist/snake.svg
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
----
-
 <div align="center">
   <i>💬 Open to collaborating on DevOps, Cloud, and Platform Engineering projects.</i><br/>
   <i>📬 Reach me at <a href="mailto:lokeshns7476@gmail.com">lokeshns7476@gmail.com</a> or connect on <a href="https://www.linkedin.com/in/lokesh-ns/">LinkedIn</a>.</i>
