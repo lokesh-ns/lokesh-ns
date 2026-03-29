@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Lokesh N S</h1>
-  <h3>Senior Cloud DevOps Engineer · India</h3>
+  <h3>Senior DevOps Engineer · India</h3>
 
   <a href="mailto:lokeshns7476@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
