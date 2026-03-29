@@ -8,7 +8,6 @@
   <a href="https://www.linkedin.com/in/lokesh-ns/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lokesh-ns.lokesh-ns&right_color=darkgreen&left_text=Profile%20Views&style=for-the-badge" />
 </div>
 
 ---
@@ -16,6 +15,22 @@
 ## 🧑‍💻 About Me
 
 > **Senior DevOps Engineer** with **7+ years of experience** in CI/CD, Kubernetes, and cloud infrastructure on AWS. Adept at leading DevOps transformations, driving **GitOps** and **DevSecOps** adoption, and building reliable platform engineering foundations. Experienced across regulated **banking and enterprise environments** with a strong focus on automation, cost efficiency, and developer enablement.
+
+---
+
+## 🎯 Currently Focused On
+
+- ☁️ Deepening expertise in **AWS Cloud** architecture and services
+- 📚 Preparing for the **AWS Solutions Architect** certification
+- 🏗️ Building scalable **Platform Engineering** foundations
+
+---
+
+## 🏅 Certifications
+
+<div>
+  <img src="https://img.shields.io/badge/AWS_Solutions_Architect-In_Progress-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</div>
 
 ---
 
@@ -80,6 +95,46 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
+
+---
+
+## 📈 GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=lokesh-ns&theme=midnight-purple&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lokesh-ns/lokesh-ns/output/snake.svg" alt="Snake animation" />
+</div>
+
+> ⚙️ **Setup note:** To enable the snake animation, add this GitHub Actions workflow to your profile repo at `.github/workflows/snake.yml`:
+>
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule:
+>     - cron: "0 0 * * *"
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: lokesh-ns
+>           outputs: dist/snake.svg
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
 
 ---
 
